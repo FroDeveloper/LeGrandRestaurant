@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5I3HbqrTS7YKSFCMRpG3rvQ1fuTKfwGt0ogwycUmoqiv1+kqW33xiZd1XzDl+9whUSGBL1vXQUqzXPs9qnp6Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anthony\\Documents\\EPSI\\Test\\LeGrandRestaurant\\LeGrandRestaurant\\LeGrandRestaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anthony\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\nfluent\\2.7.2\\nfluent.2.7.2.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\Anthony\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

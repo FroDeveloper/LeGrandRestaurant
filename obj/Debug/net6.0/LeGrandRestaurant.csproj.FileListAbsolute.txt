@@ -1,0 +1,12 @@
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net6.0\LeGrandRestaurant.deps.json
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net6.0\LeGrandRestaurant.dll
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net6.0\ref\LeGrandRestaurant.dll
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net6.0\LeGrandRestaurant.pdb
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\LeGrandRestaurant.csproj.AssemblyReference.cache
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\LeGrandRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\LeGrandRestaurant.AssemblyInfoInputs.cache
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\LeGrandRestaurant.AssemblyInfo.cs
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\LeGrandRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\LeGrandRestaurant.dll
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\ref\LeGrandRestaurant.dll
+C:\Users\kryza\source\repos\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net6.0\LeGrandRestaurant.pdb

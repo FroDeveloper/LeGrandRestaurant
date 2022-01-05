@@ -1,0 +1,12 @@
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net5.0\LeGrandRestaurant.deps.json
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net5.0\LeGrandRestaurant.dll
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net5.0\ref\LeGrandRestaurant.dll
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\bin\Debug\net5.0\LeGrandRestaurant.pdb
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.csproj.AssemblyReference.cache
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.AssemblyInfoInputs.cache
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.AssemblyInfo.cs
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.dll
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\ref\LeGrandRestaurant.dll
+C:\Users\Anthony\Documents\EPSI\Test\LeGrandRestaurant\LeGrandRestaurant\obj\Debug\net5.0\LeGrandRestaurant.pdb

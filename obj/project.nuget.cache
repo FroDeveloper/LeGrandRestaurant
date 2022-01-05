@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "enzAkaoG+00MalOzDwvuOKgW3WTYBXqxuCs9GiVffTUbfdlxHtWo0F1eBYrD992zwjqM0SLxuLNF8ISEoHWHNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kryza\\Documents\\Sources\\EPSI\\LeGrandRestaurant\\LeGrandRestaurant\\LeGrandRestaurant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kryza\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\kryza\\.nuget\\packages\\nfluent\\2.7.2\\nfluent.2.7.2.nupkg.sha512",
+    "C:\\Users\\kryza\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\kryza\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
