@@ -9,10 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeGrandRestaurant.Test", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.MSTest", "Test.MSTest\Test.MSTest.csproj", "{BC69851D-BCC3-4415-B2F2-25EF4F95A9E4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.NUnit", "Test.NUnit\Test.NUnit.csproj", "{E3A90679-95FF-4A11-93C7-C8FF665451FB}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.xUnit", "Test.xUnit\Test.xUnit.csproj", "{CC146791-55CF-426F-A952-53C45DE63264}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,14 +27,6 @@ Global
 		{BC69851D-BCC3-4415-B2F2-25EF4F95A9E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC69851D-BCC3-4415-B2F2-25EF4F95A9E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC69851D-BCC3-4415-B2F2-25EF4F95A9E4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E3A90679-95FF-4A11-93C7-C8FF665451FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3A90679-95FF-4A11-93C7-C8FF665451FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3A90679-95FF-4A11-93C7-C8FF665451FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3A90679-95FF-4A11-93C7-C8FF665451FB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC146791-55CF-426F-A952-53C45DE63264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC146791-55CF-426F-A952-53C45DE63264}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC146791-55CF-426F-A952-53C45DE63264}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC146791-55CF-426F-A952-53C45DE63264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
